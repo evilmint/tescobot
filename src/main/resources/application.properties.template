@@ -1,0 +1,7 @@
+context.initializer.classes=pl.alorenc.etesco.tescobot.main.BeansInitializer
+tescobot.email=
+tescobot.password=
+tescobot.service-url=https://ezakupy.tesco.pl/
+tescobot.sns-client.region=
+tescobot.sns-client.publish-topic-arn=
+tescobot.sns-client.service-endpoint=

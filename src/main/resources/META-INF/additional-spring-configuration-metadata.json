@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "tescobot.email",
+      "type": "java.lang.String",
+      "description": "Description for tescobot.email."
+    },
+    {
+      "name": "tescobot.password",
+      "type": "java.lang.String",
+      "description": "Description for tescobot.password."
+    }
+  ]
+}
